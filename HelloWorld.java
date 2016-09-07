@@ -1,3 +1,10 @@
+/*
+ * Created by: Michael Balcerzak
+ * Created on: 7-Sep-2016
+ * Created for: ICS4U
+ * Daily Assignment – 1-01
+ * This program displays Hello World
+*/
 
 public class HelloWorld {
 
